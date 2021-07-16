@@ -1,11 +1,11 @@
 # TKH Modules
-## This project entails the entirety of Module 1 through Module 7 of the Vestibule portion for The Knowledge House takes place.
+## This project entails the entirety of Module 1 through Module 7 of the Vestibule portion for The Knowledge House
 
-###List of Module submission:
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_1_What_is_Code)Module 1<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_2_Git_Bash)Module 2<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_3_HTML)Module 3<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_4_CSS)Module 4<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_5_Programming1)Module 5<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_6_Programming2)Module 6<br/>
-[Link](https://github.com/saneke77/TKH_Modules/tree/master/Module_7_Problem_Solving)Module 7<br/>
+*List of Module submission:*<br/>
+[Module 1](https://github.com/saneke77/TKH_Modules/tree/master/Module_1_What_is_Code)<br/>
+[Module 2](https://github.com/saneke77/TKH_Modules/tree/master/Module_2_Git_Bash)<br/>
+[Module 3](https://github.com/saneke77/TKH_Modules/tree/master/Module_3_HTML)<br/>
+[Module 4](https://github.com/saneke77/TKH_Modules/tree/master/Module_4_CSS)<br/>
+[Module 5](https://github.com/saneke77/TKH_Modules/tree/master/Module_5_Programming1)<br/>
+[Module 6](https://github.com/saneke77/TKH_Modules/tree/master/Module_6_Programming2)<br/>
+[Module 7](https://github.com/saneke77/TKH_Modules/tree/master/Module_7_Problem_Solving)<br/>
