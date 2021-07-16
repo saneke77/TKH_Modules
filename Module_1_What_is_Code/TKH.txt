@@ -1,0 +1,61 @@
+﻿In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+
+A computer is receiving a signal from the keyboard when pressed that sends that signal further inside the computer to different parts that interpret the input in the form, font, how it will be visually represented, and other aspects that result in the visual expression of what is pressed on the keyboard.
+
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+
+
+Computers use
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+
+Software products are “infinitely reproducible nothings” based on the fact that if there is someone that can make one product based in software that can create a program that tells time, it only needs to be created once. After the inception of one software product it can be replicated forever and implemented wherever applicable.
+
+
+Explain in your own words how code becomes software. (150 words max) 
+
+
+Code inevitably becomes software after entering in a sequence of symbols into some other software that turns it into a language the computer the code is being typed on can understand. Creating this “machine language” allows the computer to sequence through each symbol and glean from that a set of instructions that it can put into action. This executed action is software.
+
+
+Explain “algorithms” in your own words. (150 words max)
+
+
+Algorithms are the things that programming languages use to for a majority of the heavy lifting. Algorithms are processes that are meant to solve problems, which can be reused and reapplied in a programming language to solve the same general issue with different inputs. They can be converted to functions that “solve the problem” when the programs are ran.
+
+
+Explain the DRY principle. (100 words max)
+
+
+The DRY principle, standing for Don’t repeat yourself, is a standard for programming that says name things once, do things once, create a function once, and let the computer repeat the rest.
+
+
+In your own words, what is object-oriented programming? (100 words max)
+
+
+Object-oriented programming is the solution to the issue of organization in code. It is meant to create overarching class that allows data of the same type, or functions made for a similar goal (I.e. the input of varying levels of customer information) and have them stored in one easy to locate space as opposed to scattered throughout a program.
+
+
+ In your own words explain data and how it relates to code. (100 Words max)
+
+
+Data is the information used by different languages in different ways. Data relates to code in that a programmer of one language might be able to understand the program from someone in a different language but the programs themselves would not be able to understand each other. The language is very particular with how code is used to process data. 
+
+
+ What is a framework? (150 words max)
+
+
+Frameworks are similar to what their name entails they are pre-made skeletons with a general set of code that allows for further adjustments and implementations that start from around the same place in order to reduce the amount of time that could be spent starting from scratch with something like a graphics framework for graphical applications.
+
+
+What is debugging? (150 words max)
+
+
+Debugging is the programs built-in ability to tell you the problems with the code that may or may not make it incapable of running properly.. 
+
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
